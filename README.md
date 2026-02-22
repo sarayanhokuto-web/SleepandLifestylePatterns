@@ -40,6 +40,25 @@ This dashboard was built to explore how **physical activity, sleep, BMI, and hea
 - Stress varies across **occupations**, suggesting lifestyle and workload influence
 - Sleep disorders (Insomnia & Sleep Apnea) impact **sleep duration and stress levels**
 
+## Data-Driven Recommendations
+
+Based on the analysis of 374 individuals aged 27–59, several data-backed recommendations can be derived:
+
+- **Increase Physical Activity Programs**  
+  Individuals with higher physical activity levels tend to exhibit lower stress levels and healthier average heart rate patterns. Encouraging regular physical activity may contribute to stress reduction and improved cardiovascular indicators.
+
+- **Prioritize Sleep Quality Improvement**  
+  With approximately 41% of individuals experiencing Insomnia or Sleep Apnea, and observable declines in sleep quality as stress increases, sleep-focused interventions may significantly impact stress management and overall wellness.
+
+- **Monitor High BMI Groups for Cardiovascular Risk**  
+  Higher BMI categories show elevated systolic and diastolic blood pressure averages. Regular monitoring and targeted health programs may help mitigate long-term cardiovascular risks.
+
+- **Target Stress Management by Occupation & Age Trends**  
+  Stress levels vary across occupation groups and age segments. Identifying high-stress categories can support more tailored wellness initiatives.
+
+- **Integrate Stress & Sleep Monitoring Together**  
+  Since average stress level (5.39/10) and average sleep duration (7.13 hours) show interrelated patterns, combining stress and sleep tracking can improve early risk detection.
+
 
 ## How I Built This
 
