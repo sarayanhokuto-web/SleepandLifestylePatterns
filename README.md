@@ -147,8 +147,6 @@ Created as my **first portfolio project in Data Analytics using Power BI**.
 
 **Hokuto Sarayan**
 
-_Junior Pricing Analyst_
-
-Aspiring Data Analyst | Power BI | Data Visualization | Analytics  
+Junior Pricing Analyst | Aspiring Data Analyst (Power BI, DAX, Data Visualization)
 
 If you found this project interesting, feel free to ⭐ the repository.
