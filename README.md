@@ -4,8 +4,7 @@ Data-driven Power BI dashboard analyzing health & lifestyle data to explore rela
 
 
 ## Dashboard Preview
-<img width="1273" height="744" alt="Health_and_Lifestyle_Risk_Analysis_Dashboard" src="https://github.com/user-attachments/assets/be3e7643-6f0d-4107-b52d-e63b750d3b47" />
-
+![Dashboard](Health_and_Lifestyle_Risk_Analysis_Dashboard.png)
 
 
 ## Project Summary
@@ -141,13 +140,15 @@ Created as my **first portfolio project in Data Analytics using Power BI**.
 - `Health_and_Lifestyle_Risk_Analysis.pbix` — Power BI dashboard  
 - `Health_and_Lifestyle_Risk_Analysis.pdf` — Dashboard snapshot  
 - `Sleep_health_and_lifestyle_dataset.csv` — Dataset  
-- `/images/dashboard.png` — Dashboard preview image  
+- `Health_and_Lifestyle_Risk_Analysis_Dashboard.png` — Dashboard preview image  
 
 
 ## Author
 
 **Hokuto Sarayan**
+
 _Junior Pricing Analyst_
+
 Aspiring Data Analyst | Power BI | Data Visualization | Analytics  
 
 If you found this project interesting, feel free to ⭐ the repository.
