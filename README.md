@@ -156,7 +156,6 @@ Created as my **first portfolio project in Data Analytics using Power BI**.
 
 ## Repository Contents
 
-- `Health_and_Lifestyle_Risk_Analysis.pbix` — Power BI dashboard  
 - `Health_and_Lifestyle_Risk_Analysis.pdf` — Dashboard snapshot  
 - `Sleep_health_and_lifestyle_dataset.csv` — Dataset  
 - `Health_and_Lifestyle_Risk_Analysis_Dashboard.png` — Dashboard preview image  
